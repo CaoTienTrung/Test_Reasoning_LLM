@@ -1,0 +1,5 @@
+pytorch
+torchvision
+torchaudio
+google-generativeai
+json
